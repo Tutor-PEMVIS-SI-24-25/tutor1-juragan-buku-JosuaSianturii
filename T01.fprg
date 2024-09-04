@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="HP"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:09:14 PM"/>
+        <attribute name="created" value="SFA7TEFQVE9QLVYxODUxVDU2OzIwMjQtMDktMDQ7MDg6MjI6MDYgUE07MjQyOA=="/>
+        <attribute name="edited" value="SFA7TEFQVE9QLVYxODUxVDU2OzIwMjQtMDktMDQ7MDk6MDk6MTQgUE07MTsyNTQx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="NAMA" type="String" array="False" size=""/>
+            <input variable="NAMA"/>
+            <output expression="&quot;oke baik &quot;&amp; NAMA" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
